@@ -1,10 +1,10 @@
 # php-fcm-push-notification
 
-For ubuntu userers 
+For ubuntu users 
 in your terminal just type
 php sender.php
 
-For windows user
+For windows users
 in your command prompt just type
 php sender.php
 
