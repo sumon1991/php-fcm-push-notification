@@ -2,12 +2,12 @@
 
 ## How to run
 
-**For ubuntu users:** php sender.php
-- in your terminal just type
+**For ubuntu or mac users:** php sender.php
+- in your terminal
 
 
 **For windows users:** php sender.php
-- in your terminal just type
+- in your command prompt (open run type 'cmd' then enter)
 
 
 ## Result
